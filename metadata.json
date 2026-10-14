@@ -1,0 +1,6 @@
+{
+  "name": "NexusML - Enterprise MLOps Platform",
+  "description": "Production-grade enterprise MLOps & LLMOps platform featuring model registry, feature store, CI/CD automated pipelines, model serving & traffic control, drift monitoring, LLM evaluation, GPU cluster orchestration, and Gemini-powered Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
